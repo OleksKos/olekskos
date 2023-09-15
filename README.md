@@ -12,6 +12,8 @@
 - Help people to bring their thoughts and ideas to life.
 
 <br/>
+## My Skills
+<br/>
 
 ## My Skill Set
 
@@ -82,14 +84,6 @@
 
 <br/>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=olekskos&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-<br/>
-
 <br />
 
 ---
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
