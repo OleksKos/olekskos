@@ -12,10 +12,19 @@
 - Help people to bring their thoughts and ideas to life.
 
 <br/>
-## My Skills
-<br/>
 
-## My Skill Set
+## Knowledge, abilities, and skills:
+
+<ul>
+    <li>
+    UX/UI design: Figma, Photoshop, etc.
+    </li>
+        <li>
+    UX/UI design: Figma, Photoshop, etc.
+    </li>
+</ul>
+
+## Technologies
 
 <div width="100%">
 
