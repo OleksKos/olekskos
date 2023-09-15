@@ -67,6 +67,19 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=olekskos&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
+### ⚙️ GitHub Stats:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=olekskos&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=olekskos&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
 <br/>
 
 ## Recent Blog Posts
