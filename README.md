@@ -82,7 +82,7 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/Gidroadmin/badges/large)
+![codewars](https://www.codewars.com/users/OleksKos/badges/large)
 
 <br>
 
