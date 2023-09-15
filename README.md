@@ -26,7 +26,7 @@
 5. Search Engine (SEO) Optimization: keyword analysis, technical SEO, competitor analysis.
 6. Marketing recommendation: creating a client profile, creating a unique selling proposition, competitor analysis, etc.
 
-## 🖥️ Technologies I work with
+## 🛠 Technologies I work with:
 
 <div width="100%">
 
@@ -63,7 +63,7 @@
 
 <br/>
 
-## Connect with me
+## 🖥️ Connect with me
 
 <div align="center">
 <a href="https://github.com/olekskos" target="_blank">
