@@ -2,7 +2,11 @@
 <img src="https://github.com/olekskos/olekskos/blob/main/assets/github.jpg" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">Hello! I'm a professional WordPress Developer with 5 years of experience building websites. I provide a complete cycle of website building: UX/UI Design, Development, SEO, and Marketing.</div>
+### <div>Hello! 👋🏼 I'm a professional WordPress Developer with 5 years of experience building websites. I provide a complete cycle of website building: UX/UI Design, Development, SEO, and Marketing.</div>
+
+## 👨 About me:
+
+<p>As a professional Web Developer, I have 🔥5 years of experience in website building, offering a complete cycle of services from UX/UI Design to Development, SEO, and Marketing.</p>
 
 ### My mission
 
@@ -15,14 +19,12 @@
 
 ## Knowledge, abilities, and skills:
 
-<ul>
-    <li>
-    UX/UI design: Figma, Photoshop, etc.
-    </li>
-        <li>
-    UX/UI design: Figma, Photoshop, etc.
-    </li>
-</ul>
+1. UX/UI design: Figma, Photoshop, etc.
+2. Web development: HTML, SCSS, CSS, Javascript, PHP.
+3. CMS development: WordPress, Divi Builder, Elementor, Gutenberg, WPBakery.
+4. E-commerce web development: online stores, WordPress and WooCommerce.
+5. Search Engine (SEO) Optimization: keyword analysis, technical SEO, competitor analysis.
+6. Marketing recommendation: creating a client profile, creating a unique selling proposition, competitor analysis, etc.
 
 ## Technologies
 
