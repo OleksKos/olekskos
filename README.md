@@ -80,6 +80,12 @@
 
 <br/>
 
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/Gidroadmin/badges/large)
+
+<br>
+
 ## ⚙️ GitHub Stats:
 
 <table>
