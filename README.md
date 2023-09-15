@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://github.com/olekskos/olekskos/blob/main/assets/github.jpg" align="center" style="width: 100%" />
-</div>  
-
+</div>
 
 ### <div align="center">Hello! I'm a professional WordPress Developer with 5 years of experience building websites. I provide a complete cycle of website building: UX/UI Design, Development, SEO, and Marketing.</div>
 
@@ -16,7 +15,7 @@
 
 ## My Skill Set
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="100%">
 
 ### Frontend
 
@@ -38,7 +37,8 @@
 <a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td></tr>
+<tr><td valign="top" width="100%">
 
 ### Backend
 
@@ -47,8 +47,6 @@
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
 
 </td></tr></table>
 
@@ -63,8 +61,7 @@
 <a href="https://linkedin.com/in/oleks-kos" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
 
